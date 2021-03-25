@@ -1,0 +1,224 @@
+@media (max-width:1025px) {
+    .full_website {
+        /* height: 900px; */
+        width: 100%;
+        margin: auto;
+        box-sizing: border-box;
+    }
+    .banner {
+        padding: 200px 0;
+    }
+    .menu ul li {
+        margin-right: 10px;
+    }
+    .banner_caption {
+        font-size: 33px;
+    }
+
+    .service_item {
+        width: 22%;
+    }
+    .about_img {
+        width: 30%;
+        margin-right: 20%;
+    }
+    .about_detials {
+        width: 45%;
+        margin-left: 5%;
+    }
+}
+@media (max-width:997px) {
+    .about_img {
+        width: 28%;
+        padding-right: 5px;
+    }
+    .about_detials {
+        width: 42%;
+        padding-left: 5px;
+    }
+    .about_img img {
+        width: 500px;
+        height: auto;
+    }
+}
+@media (max-width:930px) {
+    .about_img {
+        width: 28%;
+        padding-right: 5px;
+    }
+    .about_img img {
+        width: 435px;
+        height: auto;
+    }
+    .about_detials {
+        width: 42%;
+        padding-left: 5px;
+    }
+    .service_item {
+        width: 44%;
+        border: 1px solid #ccc;
+        margin-bottom: 15px;
+        box-sizing: border-box;
+        padding: 20px 0px;
+    }
+    .service_paragraph {
+        line-height: 47px;
+    }
+    .service_top {
+        margin-top: 0px;
+    }
+}
+@media (max-width:865px) {
+    .about_us {
+        padding: 15px;
+    }
+    .about_img {
+        width: 28%;
+        padding-right: 15px;
+    }
+    .about_img img {
+        width: 450px;
+        height: auto;
+    }
+    .about_detials {
+        width: 40%;
+        padding-left: 15px;
+    }
+    .service_item {
+        width: 47%;
+        padding: 20px 8px;
+    }
+}
+@media (max-width:838px) {
+    .about_us {
+        padding: 15px;
+    }
+    .about_img {
+        width: 28%;
+        padding-right: 15px;
+    }
+    .about_img img {
+        width: 430px;
+        height: 370px;
+    }
+    .about_detials {
+        width: 40%;
+        padding-left: 15px;
+    }
+}
+@media (max-width:781px) {
+    .logo {
+        width: 100%;
+        text-align: center;
+    }
+    .menu {
+        width: 100%;
+    }
+    .menu ul {
+        text-align: center;
+        margin-top: 5px;
+    }
+    .service_item {
+        width: 40%;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .about_img {
+        width: 100%;
+        padding-right: 5px;
+    }
+    .about_img img {
+        width: 100%;
+        height: auto;
+    }
+    .about_detials {
+        width: 100%;
+        padding-left: 5px;
+        margin-top: 20px;
+    }
+}
+@media (max-width:690px) {
+    .about_us {
+        padding: 5px;
+    }
+    /* .about_img {
+        width: 100%;
+        text-align: center;
+    }
+    .about_img img {
+        width: 618px;
+        height: 355px;
+        border-radius: 10px;
+    } */
+    .about_detials {
+        width: 100%;
+    }
+    .about_detials h1 {
+        font-size: 27px;
+        margin-bottom: 15px;
+        border-bottom: 1px solid #ccc;
+        display: inline-block;
+    }
+    .about_detials p {
+        font-size: 19px;
+        margin-bottom: 20px;
+    }
+    .contact_us { 
+        margin-top: -3px;
+    }
+    .service_section {
+        padding: 20px 22px;
+    }
+    .service_item {
+        width: 100%;
+        margin: auto;
+        margin-top: 10px;
+    }
+    .service_item h1 {
+        font-size: 23px;
+    }
+}
+@media (max-width:574px) {
+    .service_item {
+        width: 100%;
+    }
+    .service_item h1 {
+        font-size: 19px;
+    }
+    .service_item p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+  
+}
+@media (max-width:500px) {
+    .contact_item {
+        width: 100%;
+    }
+    .contact_item span {
+        margin-top: 24px;
+    }
+    .banner {
+        padding: 60px 0;
+    }
+  
+}
+@media (max-width:422px) {
+    .service_top {
+        margin-left: 33px;
+    }
+    .service_caption {
+        font-size: 28px;
+    }
+    .service_paragraph {
+        line-height: 37px;
+    }
+    .contact_item {
+        width: 100%;
+    }
+    .banner_caption {
+        font-size: 23px;
+    }
+}
+
+
