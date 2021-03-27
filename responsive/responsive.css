@@ -136,6 +136,9 @@
         padding-left: 5px;
         margin-top: 20px;
     }
+    .logo h1 {
+         margin-left: 0px;
+    }
 }
 @media (max-width:690px) {
     .about_us {
@@ -200,6 +203,9 @@
     }
     .banner {
         padding: 60px 0;
+    }
+    .service_item span {
+        font-size: 27px;
     }
   
 }
